@@ -1,0 +1,20 @@
+# setuptools /dist directory
+/dist
+
+# HTML documentation
+doc/build
+doc/source/_stubs
+*_stubs
+doc/source/api
+
+# Python
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Editor-related stuff
+.vscode
+
+# Mac OS related stuff
+.DS_Store
