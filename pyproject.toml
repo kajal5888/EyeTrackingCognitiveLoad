@@ -1,0 +1,18 @@
+[project]
+name = "EyeTrackingCognitiveLoad"
+version = "0.0.1"
+authors = [
+  { name="Diljit Singh Kajal", email="kajal5888@yahoo.co.in" },
+]
+description = "Estimate the cognitive load based on pupillometry"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
